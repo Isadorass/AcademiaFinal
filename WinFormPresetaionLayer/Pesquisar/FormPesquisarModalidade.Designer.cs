@@ -29,6 +29,7 @@ namespace WinFormPresetaionLayer.Pesquisar
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FormPesquisarModalidade));
             this.lblDescricao = new System.Windows.Forms.Label();
             this.dgvModalidade = new System.Windows.Forms.DataGridView();
             this.btnPesquisar = new System.Windows.Forms.Button();
@@ -88,8 +89,9 @@ namespace WinFormPresetaionLayer.Pesquisar
             this.Controls.Add(this.btnPesquisar);
             this.Controls.Add(this.dgvModalidade);
             this.Controls.Add(this.lblDescricao);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "FormPesquisarModalidade";
-            this.Text = "FormPesquisarModalidade";
+            this.Text = "Pesquisar Modalidade";
             ((System.ComponentModel.ISupportInitialize)(this.dgvModalidade)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();

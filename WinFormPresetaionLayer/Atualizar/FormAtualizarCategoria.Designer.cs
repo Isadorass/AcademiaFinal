@@ -29,6 +29,7 @@ namespace WinFormPresetaionLayer.Atualizar
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FormAtualizarCategoria));
             this.btnAtualizar = new System.Windows.Forms.Button();
             this.lblNome = new System.Windows.Forms.Label();
             this.txtNome = new System.Windows.Forms.TextBox();
@@ -105,8 +106,9 @@ namespace WinFormPresetaionLayer.Atualizar
             this.Controls.Add(this.btnAtualizar);
             this.Controls.Add(this.lblNome);
             this.Controls.Add(this.txtNome);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "FormAtualizarCategoria";
-            this.Text = "FormAtualizarCategoria";
+            this.Text = "Atualizar Categoria";
             ((System.ComponentModel.ISupportInitialize)(this.dgvCategoria)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();

@@ -198,5 +198,17 @@ namespace WinFormsPresentationLayer
             FormAtualizarFormaPagamento formAtualizarFormaPagamento = new FormAtualizarFormaPagamento();
             formAtualizarFormaPagamento.Visible = true;
         }
+
+        private void formaDePagamentoToolStripMenuItem2_Click(object sender, EventArgs e)
+        {
+            FormPesquisarFormaPagamento formPesquisarFormaPagamento = new FormPesquisarFormaPagamento();
+            formPesquisarFormaPagamento.Visible = true;
+        }
+
+        private void estoqueToolStripMenuItem1_Click(object sender, EventArgs e)
+        {
+            FormPesquisarEstoque formPesquisarEstoque = new FormPesquisarEstoque();
+            formPesquisarEstoque.Visible = true;
+        }
     }
 }

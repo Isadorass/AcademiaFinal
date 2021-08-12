@@ -29,6 +29,7 @@ namespace WinFormPresetaionLayer.Atualizar
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FormAtualizarFormaPagamento));
             this.lblNome = new System.Windows.Forms.Label();
             this.txtNome = new System.Windows.Forms.TextBox();
             this.dgvFormaPagamento = new System.Windows.Forms.DataGridView();
@@ -105,8 +106,9 @@ namespace WinFormPresetaionLayer.Atualizar
             this.Controls.Add(this.dgvFormaPagamento);
             this.Controls.Add(this.lblNome);
             this.Controls.Add(this.txtNome);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "FormAtualizarFormaPagamento";
-            this.Text = "FormAtualizarFormaPagamento";
+            this.Text = "Atualizar Forma Pagamento";
             ((System.ComponentModel.ISupportInitialize)(this.dgvFormaPagamento)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();

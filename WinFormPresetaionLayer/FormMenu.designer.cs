@@ -44,6 +44,7 @@ namespace WinFormsPresentationLayer
             this.atualizarClienteToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.atualizarEstoqueToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.atualizarFuncionarioToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.formaDePagamentoToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
             this.atualizarModalidadeToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.atualizarProdutoToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.pesquisarToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
@@ -57,7 +58,8 @@ namespace WinFormsPresentationLayer
             this.tocarUsuarioToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.sairToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
-            this.formaDePagamentoToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
+            this.formaDePagamentoToolStripMenuItem2 = new System.Windows.Forms.ToolStripMenuItem();
+            this.estoqueToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
@@ -190,6 +192,13 @@ namespace WinFormsPresentationLayer
             this.atualizarFuncionarioToolStripMenuItem.Text = "Funcionário";
             this.atualizarFuncionarioToolStripMenuItem.Click += new System.EventHandler(this.atualizarFuncionarioToolStripMenuItem_Click);
             // 
+            // formaDePagamentoToolStripMenuItem1
+            // 
+            this.formaDePagamentoToolStripMenuItem1.Name = "formaDePagamentoToolStripMenuItem1";
+            this.formaDePagamentoToolStripMenuItem1.Size = new System.Drawing.Size(188, 22);
+            this.formaDePagamentoToolStripMenuItem1.Text = "Forma de Pagamento";
+            this.formaDePagamentoToolStripMenuItem1.Click += new System.EventHandler(this.formaDePagamentoToolStripMenuItem1_Click);
+            // 
             // atualizarModalidadeToolStripMenuItem
             // 
             this.atualizarModalidadeToolStripMenuItem.Name = "atualizarModalidadeToolStripMenuItem";
@@ -209,8 +218,10 @@ namespace WinFormsPresentationLayer
             this.pesquisarToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.pesquisarCategoriaToolStripMenuItem,
             this.pesquisarClienteToolStripMenuItem,
-            this.pesquisarFuncionarioToolStripMenuItem,
+            this.formaDePagamentoToolStripMenuItem2,
+            this.estoqueToolStripMenuItem1,
             this.pesquisarEstoqueToolStripMenuItem,
+            this.pesquisarFuncionarioToolStripMenuItem,
             this.pesquisarModalidadeToolStripMenuItem,
             this.pesquisarProdutoToolStripMenuItem});
             this.pesquisarToolStripMenuItem.Name = "pesquisarToolStripMenuItem";
@@ -220,42 +231,42 @@ namespace WinFormsPresentationLayer
             // pesquisarCategoriaToolStripMenuItem
             // 
             this.pesquisarCategoriaToolStripMenuItem.Name = "pesquisarCategoriaToolStripMenuItem";
-            this.pesquisarCategoriaToolStripMenuItem.Size = new System.Drawing.Size(137, 22);
+            this.pesquisarCategoriaToolStripMenuItem.Size = new System.Drawing.Size(188, 22);
             this.pesquisarCategoriaToolStripMenuItem.Text = "Categoria";
             this.pesquisarCategoriaToolStripMenuItem.Click += new System.EventHandler(this.pesquisarCategoriaToolStripMenuItem_Click);
             // 
             // pesquisarClienteToolStripMenuItem
             // 
             this.pesquisarClienteToolStripMenuItem.Name = "pesquisarClienteToolStripMenuItem";
-            this.pesquisarClienteToolStripMenuItem.Size = new System.Drawing.Size(137, 22);
+            this.pesquisarClienteToolStripMenuItem.Size = new System.Drawing.Size(188, 22);
             this.pesquisarClienteToolStripMenuItem.Text = "Cliente";
             this.pesquisarClienteToolStripMenuItem.Click += new System.EventHandler(this.pesquisarClienteToolStripMenuItem_Click);
             // 
             // pesquisarFuncionarioToolStripMenuItem
             // 
             this.pesquisarFuncionarioToolStripMenuItem.Name = "pesquisarFuncionarioToolStripMenuItem";
-            this.pesquisarFuncionarioToolStripMenuItem.Size = new System.Drawing.Size(137, 22);
+            this.pesquisarFuncionarioToolStripMenuItem.Size = new System.Drawing.Size(188, 22);
             this.pesquisarFuncionarioToolStripMenuItem.Text = "Funcionário";
             this.pesquisarFuncionarioToolStripMenuItem.Click += new System.EventHandler(this.pesquisarFuncionarioToolStripMenuItem_Click);
             // 
             // pesquisarEstoqueToolStripMenuItem
             // 
             this.pesquisarEstoqueToolStripMenuItem.Name = "pesquisarEstoqueToolStripMenuItem";
-            this.pesquisarEstoqueToolStripMenuItem.Size = new System.Drawing.Size(137, 22);
-            this.pesquisarEstoqueToolStripMenuItem.Text = "Estoque";
+            this.pesquisarEstoqueToolStripMenuItem.Size = new System.Drawing.Size(188, 22);
+            this.pesquisarEstoqueToolStripMenuItem.Text = "Forma de Pagamento";
             this.pesquisarEstoqueToolStripMenuItem.Click += new System.EventHandler(this.pesquisarEstoqueToolStripMenuItem_Click);
             // 
             // pesquisarModalidadeToolStripMenuItem
             // 
             this.pesquisarModalidadeToolStripMenuItem.Name = "pesquisarModalidadeToolStripMenuItem";
-            this.pesquisarModalidadeToolStripMenuItem.Size = new System.Drawing.Size(137, 22);
+            this.pesquisarModalidadeToolStripMenuItem.Size = new System.Drawing.Size(188, 22);
             this.pesquisarModalidadeToolStripMenuItem.Text = "Modalidade";
             this.pesquisarModalidadeToolStripMenuItem.Click += new System.EventHandler(this.pesquisarModalidadeToolStripMenuItem_Click);
             // 
             // pesquisarProdutoToolStripMenuItem
             // 
             this.pesquisarProdutoToolStripMenuItem.Name = "pesquisarProdutoToolStripMenuItem";
-            this.pesquisarProdutoToolStripMenuItem.Size = new System.Drawing.Size(137, 22);
+            this.pesquisarProdutoToolStripMenuItem.Size = new System.Drawing.Size(188, 22);
             this.pesquisarProdutoToolStripMenuItem.Text = "Produto";
             this.pesquisarProdutoToolStripMenuItem.Click += new System.EventHandler(this.pesquisarProdutoToolStripMenuItem_Click);
             // 
@@ -293,12 +304,19 @@ namespace WinFormsPresentationLayer
             this.pictureBox1.TabIndex = 2;
             this.pictureBox1.TabStop = false;
             // 
-            // formaDePagamentoToolStripMenuItem1
+            // formaDePagamentoToolStripMenuItem2
             // 
-            this.formaDePagamentoToolStripMenuItem1.Name = "formaDePagamentoToolStripMenuItem1";
-            this.formaDePagamentoToolStripMenuItem1.Size = new System.Drawing.Size(188, 22);
-            this.formaDePagamentoToolStripMenuItem1.Text = "Forma de Pagamento";
-            this.formaDePagamentoToolStripMenuItem1.Click += new System.EventHandler(this.formaDePagamentoToolStripMenuItem1_Click);
+            this.formaDePagamentoToolStripMenuItem2.Name = "formaDePagamentoToolStripMenuItem2";
+            this.formaDePagamentoToolStripMenuItem2.Size = new System.Drawing.Size(188, 22);
+            this.formaDePagamentoToolStripMenuItem2.Text = "Forma de Pagamento";
+            this.formaDePagamentoToolStripMenuItem2.Click += new System.EventHandler(this.formaDePagamentoToolStripMenuItem2_Click);
+            // 
+            // estoqueToolStripMenuItem1
+            // 
+            this.estoqueToolStripMenuItem1.Name = "estoqueToolStripMenuItem1";
+            this.estoqueToolStripMenuItem1.Size = new System.Drawing.Size(188, 22);
+            this.estoqueToolStripMenuItem1.Text = "Estoque";
+            this.estoqueToolStripMenuItem1.Click += new System.EventHandler(this.estoqueToolStripMenuItem1_Click);
             // 
             // FormMenu
             // 
@@ -350,5 +368,7 @@ namespace WinFormsPresentationLayer
         private System.Windows.Forms.ToolStripMenuItem sairToolStripMenuItem1;
         private System.Windows.Forms.ToolStripMenuItem formaDePagamentoToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem formaDePagamentoToolStripMenuItem1;
+        private System.Windows.Forms.ToolStripMenuItem formaDePagamentoToolStripMenuItem2;
+        private System.Windows.Forms.ToolStripMenuItem estoqueToolStripMenuItem1;
     }
 }

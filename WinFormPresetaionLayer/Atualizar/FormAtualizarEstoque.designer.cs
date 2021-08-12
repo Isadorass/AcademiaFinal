@@ -29,6 +29,7 @@ namespace WinFormPresetaionLayer.Atualizar
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FormAtualizarEstoque));
             this.btnAtualizar = new System.Windows.Forms.Button();
             this.dtpDataEntrada = new System.Windows.Forms.DateTimePicker();
             this.lblQuantidade = new System.Windows.Forms.Label();
@@ -158,6 +159,7 @@ namespace WinFormPresetaionLayer.Atualizar
             this.Controls.Add(this.txtQuantidade);
             this.Controls.Add(this.lblValorUnitario);
             this.Controls.Add(this.txtValorUnitario);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "FormAtualizarEstoque";
             this.Text = "Atualizar Estoque";
             ((System.ComponentModel.ISupportInitialize)(this.dgvEstoque)).EndInit();

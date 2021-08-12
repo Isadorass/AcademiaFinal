@@ -29,6 +29,7 @@ namespace WinFormPresetaionLayer
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FormCadastroFormaPagamento));
             this.btnCadastrar = new System.Windows.Forms.Button();
             this.lblNome = new System.Windows.Forms.Label();
             this.txtNome = new System.Windows.Forms.TextBox();
@@ -75,8 +76,9 @@ namespace WinFormPresetaionLayer
             this.Controls.Add(this.btnCadastrar);
             this.Controls.Add(this.lblNome);
             this.Controls.Add(this.txtNome);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "FormCadastroFormaPagamento";
-            this.Text = "FormCadastroFormaPagamento";
+            this.Text = "Cadastro Forma Pagamento";
             this.ResumeLayout(false);
             this.PerformLayout();
 

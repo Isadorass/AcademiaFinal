@@ -29,6 +29,7 @@ namespace WinFormPresetaionLayer
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FormCadastroDeModalidade));
             this.lblDescricao = new System.Windows.Forms.Label();
             this.lblValor = new System.Windows.Forms.Label();
             this.txtDescricao = new System.Windows.Forms.TextBox();
@@ -98,8 +99,9 @@ namespace WinFormPresetaionLayer
             this.Controls.Add(this.lblValor);
             this.Controls.Add(this.txtDescricao);
             this.Controls.Add(this.txtValor);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "FormCadastroDeModalidade";
-            this.Text = "FormCdastroDeModalidade";
+            this.Text = "Cdastro De Modalidade";
             this.ResumeLayout(false);
             this.PerformLayout();
 

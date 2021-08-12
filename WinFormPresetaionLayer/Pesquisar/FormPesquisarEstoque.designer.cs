@@ -29,6 +29,7 @@ namespace WinFormPresetaionLayer.Pesquisar
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FormPesquisarEstoque));
             this.dgvEstoque = new System.Windows.Forms.DataGridView();
             this.dtpDataEntrada = new System.Windows.Forms.DateTimePicker();
             this.lblDataEntrada = new System.Windows.Forms.Label();
@@ -87,6 +88,7 @@ namespace WinFormPresetaionLayer.Pesquisar
             this.Controls.Add(this.lblDataEntrada);
             this.Controls.Add(this.dtpDataEntrada);
             this.Controls.Add(this.dgvEstoque);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "FormPesquisarEstoque";
             this.Text = "Pesquisar Estoque";
             ((System.ComponentModel.ISupportInitialize)(this.dgvEstoque)).EndInit();

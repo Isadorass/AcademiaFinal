@@ -29,6 +29,7 @@ namespace WinFormsPresentationLayer
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FormCadastroDeFuncionario));
             this.lblNome = new System.Windows.Forms.Label();
             this.txtTelefone = new System.Windows.Forms.TextBox();
             this.lblTelefone = new System.Windows.Forms.Label();
@@ -398,6 +399,7 @@ namespace WinFormsPresentationLayer
             this.Controls.Add(this.btnCadastrar);
             this.Controls.Add(this.gbEndereco);
             this.Controls.Add(this.gbDadosPessoais);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "FormCadastroDeFuncionario";
             this.Text = "Cadastrar Funcionario";
             this.gbDadosPessoais.ResumeLayout(false);

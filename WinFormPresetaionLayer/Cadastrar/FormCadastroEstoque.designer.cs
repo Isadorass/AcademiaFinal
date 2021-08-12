@@ -29,6 +29,7 @@ namespace WinFormPresetaionLayer
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FormCadastroEstoque));
             this.lblDataEntrada = new System.Windows.Forms.Label();
             this.dtpDataEntrada = new System.Windows.Forms.DateTimePicker();
             this.txtQuantidade = new System.Windows.Forms.TextBox();
@@ -127,6 +128,7 @@ namespace WinFormPresetaionLayer
             this.Controls.Add(this.txtQuantidade);
             this.Controls.Add(this.lblValorUnitario);
             this.Controls.Add(this.txtValorUnitario);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "FormCadastroEstoque";
             this.Text = "Cadastro Estoque";
             ((System.ComponentModel.ISupportInitialize)(this.dgvProduto)).EndInit();

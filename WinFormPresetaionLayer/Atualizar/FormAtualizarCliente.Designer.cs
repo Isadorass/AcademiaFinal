@@ -29,6 +29,7 @@ namespace WinFormPresetaionLayer.Atualizar
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FormAtualizarCliente));
             this.dtpDataMatricula = new System.Windows.Forms.DateTimePicker();
             this.lblDataMatricula = new System.Windows.Forms.Label();
             this.lblTelefoneFixo = new System.Windows.Forms.Label();
@@ -240,8 +241,9 @@ namespace WinFormPresetaionLayer.Atualizar
             this.Controls.Add(this.txtNome);
             this.Controls.Add(this.txtEmail);
             this.Controls.Add(this.lblGenero);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "FormAtualizarCliente";
-            this.Text = "FormAtualizarCliente";
+            this.Text = "Atualizar Cliente";
             ((System.ComponentModel.ISupportInitialize)(this.dgvCliente)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.dgvModalidade)).EndInit();
             this.ResumeLayout(false);

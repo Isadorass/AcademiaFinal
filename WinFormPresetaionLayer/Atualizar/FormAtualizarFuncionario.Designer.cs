@@ -29,6 +29,7 @@ namespace WinFormPresetaionLayer.Atualizar
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FormAtualizarFuncionario));
             this.btnDesativar = new System.Windows.Forms.Button();
             this.btnAtualizar = new System.Windows.Forms.Button();
             this.dgvFuncionario = new System.Windows.Forms.DataGridView();
@@ -44,6 +45,8 @@ namespace WinFormPresetaionLayer.Atualizar
             this.lblRua = new System.Windows.Forms.Label();
             this.txtRua = new System.Windows.Forms.TextBox();
             this.gbDadosPessoais = new System.Windows.Forms.GroupBox();
+            this.lblPapel = new System.Windows.Forms.Label();
+            this.cmbPapel = new System.Windows.Forms.ComboBox();
             this.lblSenha = new System.Windows.Forms.Label();
             this.txtSenha = new System.Windows.Forms.TextBox();
             this.txtSalario = new System.Windows.Forms.TextBox();
@@ -55,8 +58,6 @@ namespace WinFormPresetaionLayer.Atualizar
             this.lblEmail = new System.Windows.Forms.Label();
             this.txtEmail = new System.Windows.Forms.TextBox();
             this.dgvModalidade = new System.Windows.Forms.DataGridView();
-            this.cmbPapel = new System.Windows.Forms.ComboBox();
-            this.lblPapel = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.dgvFuncionario)).BeginInit();
             this.gbEndereco.SuspendLayout();
             this.gbDadosPessoais.SuspendLayout();
@@ -247,6 +248,27 @@ namespace WinFormPresetaionLayer.Atualizar
             this.gbDadosPessoais.TabStop = false;
             this.gbDadosPessoais.Text = "Dados Pessoais";
             // 
+            // lblPapel
+            // 
+            this.lblPapel.AutoSize = true;
+            this.lblPapel.Location = new System.Drawing.Point(249, 110);
+            this.lblPapel.Name = "lblPapel";
+            this.lblPapel.Size = new System.Drawing.Size(44, 16);
+            this.lblPapel.TabIndex = 73;
+            this.lblPapel.Text = "Papel";
+            // 
+            // cmbPapel
+            // 
+            this.cmbPapel.FormattingEnabled = true;
+            this.cmbPapel.Items.AddRange(new object[] {
+            "Administrador",
+            "Professor",
+            "Recepção"});
+            this.cmbPapel.Location = new System.Drawing.Point(252, 126);
+            this.cmbPapel.Name = "cmbPapel";
+            this.cmbPapel.Size = new System.Drawing.Size(227, 24);
+            this.cmbPapel.TabIndex = 72;
+            // 
             // lblSenha
             // 
             this.lblSenha.AutoSize = true;
@@ -346,27 +368,6 @@ namespace WinFormPresetaionLayer.Atualizar
             this.dgvModalidade.Size = new System.Drawing.Size(240, 172);
             this.dgvModalidade.TabIndex = 72;
             // 
-            // cmbPapel
-            // 
-            this.cmbPapel.FormattingEnabled = true;
-            this.cmbPapel.Items.AddRange(new object[] {
-            "Administrador",
-            "Professor",
-            "Recepção"});
-            this.cmbPapel.Location = new System.Drawing.Point(252, 126);
-            this.cmbPapel.Name = "cmbPapel";
-            this.cmbPapel.Size = new System.Drawing.Size(227, 24);
-            this.cmbPapel.TabIndex = 72;
-            // 
-            // lblPapel
-            // 
-            this.lblPapel.AutoSize = true;
-            this.lblPapel.Location = new System.Drawing.Point(249, 110);
-            this.lblPapel.Name = "lblPapel";
-            this.lblPapel.Size = new System.Drawing.Size(44, 16);
-            this.lblPapel.TabIndex = 73;
-            this.lblPapel.Text = "Papel";
-            // 
             // FormAtualizarFuncionario
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -378,8 +379,9 @@ namespace WinFormPresetaionLayer.Atualizar
             this.Controls.Add(this.dgvFuncionario);
             this.Controls.Add(this.btnDesativar);
             this.Controls.Add(this.btnAtualizar);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "FormAtualizarFuncionario";
-            this.Text = "FormAtualizarFuncionario";
+            this.Text = "Atualizar Funcionario";
             ((System.ComponentModel.ISupportInitialize)(this.dgvFuncionario)).EndInit();
             this.gbEndereco.ResumeLayout(false);
             this.gbEndereco.PerformLayout();
