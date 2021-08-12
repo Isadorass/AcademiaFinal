@@ -1,0 +1,120 @@
+C:\Users\rodri\source\repos\AcademiaZyX\WinFormPresetaionLayer\bin\Debug\WinFormPresetaionLayer.exe
+C:\Users\rodri\source\repos\AcademiaZyX\WinFormPresetaionLayer\bin\Debug\WinFormPresetaionLayer.pdb
+C:\Users\rodri\source\repos\AcademiaZyX\WinFormPresetaionLayer\obj\Debug\WinFormPresentationLayer.csprojAssemblyReference.cache
+C:\Users\rodri\source\repos\AcademiaZyX\WinFormPresetaionLayer\obj\Debug\WinFormsPresentationLayer.FormCadastroDeClientes.resources
+C:\Users\rodri\source\repos\AcademiaZyX\WinFormPresetaionLayer\obj\Debug\WinFormsPresentationLayer.FormCadastroDeProdutos.resources
+C:\Users\rodri\source\repos\AcademiaZyX\WinFormPresetaionLayer\obj\Debug\WinFormPresetaionLayer.Properties.Resources.resources
+C:\Users\rodri\source\repos\AcademiaZyX\WinFormPresetaionLayer\obj\Debug\WinFormPresentationLayer.csproj.GenerateResource.cache
+C:\Users\rodri\source\repos\AcademiaZyX\WinFormPresetaionLayer\obj\Debug\WinFormPresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\rodri\source\repos\AcademiaZyX\WinFormPresetaionLayer\obj\Debug\WinFormPresetaionLayer.exe
+C:\Users\rodri\source\repos\AcademiaZyX\WinFormPresetaionLayer\obj\Debug\WinFormPresetaionLayer.pdb
+C:\Users\rodri\source\repos\AcademiaZyX\WinFormPresetaionLayer\bin\Debug\BussinesLogicalLayer.dll
+C:\Users\rodri\source\repos\AcademiaZyX\WinFormPresetaionLayer\bin\Debug\Entities.dll
+C:\Users\rodri\source\repos\AcademiaZyX\WinFormPresetaionLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\rodri\source\repos\AcademiaZyX\WinFormPresetaionLayer\bin\Debug\Shared.dll
+C:\Users\rodri\source\repos\AcademiaZyX\WinFormPresetaionLayer\bin\Debug\BussinesLogicalLayer.pdb
+C:\Users\rodri\source\repos\AcademiaZyX\WinFormPresetaionLayer\bin\Debug\Entities.pdb
+C:\Users\rodri\source\repos\AcademiaZyX\WinFormPresetaionLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\rodri\source\repos\AcademiaZyX\WinFormPresetaionLayer\bin\Debug\Shared.pdb
+C:\Users\rodri\source\repos\AcademiaZyX\WinFormPresetaionLayer\obj\Debug\WinFormPresentationLayer.csproj.CopyComplete
+C:\Users\rodri\source\repos\AcademiaZyX\WinFormPresetaionLayer\obj\Debug\WinFormsPresentationLayer.FormMenu.resources
+C:\Users\rodri\source\repos\AcademiaZyX\WinFormPresetaionLayer\obj\Debug\WinFormsPresentationLayer.FormLogin.resources
+C:\Users\rodri\source\repos\AcademiaZyX\WinFormPresetaionLayer\obj\Debug\WinFormPresetaionLayer.FormCadastroDeModalidade.resources
+C:\Users\rodri\source\repos\AcademiaZyX\WinFormPresetaionLayer\obj\Debug\WinFormPresetaionLayer.Atualizar.FormAtualizarCategoria.resources
+C:\Users\rodri\source\repos\AcademiaZyX\WinFormPresetaionLayer\obj\Debug\WinFormPresetaionLayer.Atualizar.FormAtualizarCliente.resources
+C:\Users\rodri\source\repos\AcademiaZyX\WinFormPresetaionLayer\obj\Debug\WinFormPresetaionLayer.Atualizar.FormAtualizarEstoque.resources
+C:\Users\rodri\source\repos\AcademiaZyX\WinFormPresetaionLayer\obj\Debug\WinFormPresetaionLayer.Atualizar.FormAtualizarFormaPagamento.resources
+C:\Users\rodri\source\repos\AcademiaZyX\WinFormPresetaionLayer\obj\Debug\WinFormPresetaionLayer.Atualizar.FormAtualizarFuncionario.resources
+C:\Users\rodri\source\repos\AcademiaZyX\WinFormPresetaionLayer\obj\Debug\WinFormPresetaionLayer.Atualizar.FormAtualizarModalidade.resources
+C:\Users\rodri\source\repos\AcademiaZyX\WinFormPresetaionLayer\obj\Debug\WinFormPresetaionLayer.Atualizar.FormAtualizarProduto.resources
+C:\Users\rodri\source\repos\AcademiaZyX\WinFormPresetaionLayer\obj\Debug\WinFormPresetaionLayer.FormCadastroEstoque.resources
+C:\Users\rodri\source\repos\AcademiaZyX\WinFormPresetaionLayer\obj\Debug\WinFormPresetaionLayer.FormCadastroDeCategoria.resources
+C:\Users\rodri\source\repos\AcademiaZyX\WinFormPresetaionLayer\obj\Debug\WinFormPresetaionLayer.FormCadastroFormaPagamento.resources
+C:\Users\rodri\source\repos\AcademiaZyX\WinFormPresetaionLayer\obj\Debug\WinFormPresetaionLayer.Pesquisar.FormPesquisarCategoria.resources
+C:\Users\rodri\source\repos\AcademiaZyX\WinFormPresetaionLayer\obj\Debug\WinFormPresetaionLayer.Pesquisar.FormPesquisarCliente.resources
+C:\Users\rodri\source\repos\AcademiaZyX\WinFormPresetaionLayer\obj\Debug\WinFormPresetaionLayer.Pesquisar.FormPesquisarEstoque.resources
+C:\Users\rodri\source\repos\AcademiaZyX\WinFormPresetaionLayer\obj\Debug\WinFormPresetaionLayer.Pesquisar.FormPesquisarFormaPagamento.resources
+C:\Users\rodri\source\repos\AcademiaZyX\WinFormPresetaionLayer\obj\Debug\WinFormPresetaionLayer.Pesquisar.FormPesquisarFuncionario.resources
+C:\Users\rodri\source\repos\AcademiaZyX\WinFormPresetaionLayer\obj\Debug\WinFormPresetaionLayer.Pesquisar.FormPesquisarModalidade.resources
+C:\Users\rodri\source\repos\AcademiaZyX\WinFormPresetaionLayer\obj\Debug\WinFormPresetaionLayer.Pesquisar.FormPesquisarProduto.resources
+C:\Users\rodri\source\repos\AcademiaZyX\WinFormPresetaionLayer\obj\Debug\WinFormsPresentationLayer.FormCadastroDeFuncionario.resources
+C:\Users\Nunes\Desktop\AcademiaVerdade\WinFormPresetaionLayer\obj\Debug\WinFormPresentationLayer.csproj.AssemblyReference.cache
+C:\Users\Nunes\Desktop\AcademiaVerdade\WinFormPresetaionLayer\obj\Debug\WinFormPresetaionLayer.Atualizar.FormAtualizarCategoria.resources
+C:\Users\Nunes\Desktop\AcademiaVerdade\WinFormPresetaionLayer\obj\Debug\WinFormPresetaionLayer.Atualizar.FormAtualizarCliente.resources
+C:\Users\Nunes\Desktop\AcademiaVerdade\WinFormPresetaionLayer\obj\Debug\WinFormPresetaionLayer.Atualizar.FormAtualizarEstoque.resources
+C:\Users\Nunes\Desktop\AcademiaVerdade\WinFormPresetaionLayer\obj\Debug\WinFormPresetaionLayer.Atualizar.FormAtualizarFormaPagamento.resources
+C:\Users\Nunes\Desktop\AcademiaVerdade\WinFormPresetaionLayer\obj\Debug\WinFormPresetaionLayer.Atualizar.FormAtualizarFuncionario.resources
+C:\Users\Nunes\Desktop\AcademiaVerdade\WinFormPresetaionLayer\obj\Debug\WinFormPresetaionLayer.Atualizar.FormAtualizarModalidade.resources
+C:\Users\Nunes\Desktop\AcademiaVerdade\WinFormPresetaionLayer\obj\Debug\WinFormPresetaionLayer.Atualizar.FormAtualizarProduto.resources
+C:\Users\Nunes\Desktop\AcademiaVerdade\WinFormPresetaionLayer\obj\Debug\WinFormPresetaionLayer.FormCadastroEstoque.resources
+C:\Users\Nunes\Desktop\AcademiaVerdade\WinFormPresetaionLayer\obj\Debug\WinFormPresetaionLayer.FormCadastroDeCategoria.resources
+C:\Users\Nunes\Desktop\AcademiaVerdade\WinFormPresetaionLayer\obj\Debug\WinFormsPresentationLayer.FormCadastroDeClientes.resources
+C:\Users\Nunes\Desktop\AcademiaVerdade\WinFormPresetaionLayer\obj\Debug\WinFormsPresentationLayer.FormCadastroDeProdutos.resources
+C:\Users\Nunes\Desktop\AcademiaVerdade\WinFormPresetaionLayer\obj\Debug\WinFormsPresentationLayer.FormCadastroDeFuncionario.resources
+C:\Users\Nunes\Desktop\AcademiaVerdade\WinFormPresetaionLayer\obj\Debug\WinFormPresetaionLayer.FormCadastroDeModalidade.resources
+C:\Users\Nunes\Desktop\AcademiaVerdade\WinFormPresetaionLayer\obj\Debug\WinFormPresetaionLayer.FormCadastroFormaPagamento.resources
+C:\Users\Nunes\Desktop\AcademiaVerdade\WinFormPresetaionLayer\obj\Debug\WinFormsPresentationLayer.FormLogin.resources
+C:\Users\Nunes\Desktop\AcademiaVerdade\WinFormPresetaionLayer\obj\Debug\WinFormsPresentationLayer.FormMenu.resources
+C:\Users\Nunes\Desktop\AcademiaVerdade\WinFormPresetaionLayer\obj\Debug\WinFormPresetaionLayer.Pesquisar.FormPesquisarCategoria.resources
+C:\Users\Nunes\Desktop\AcademiaVerdade\WinFormPresetaionLayer\obj\Debug\WinFormPresetaionLayer.Pesquisar.FormPesquisarCliente.resources
+C:\Users\Nunes\Desktop\AcademiaVerdade\WinFormPresetaionLayer\obj\Debug\WinFormPresetaionLayer.Pesquisar.FormPesquisarEstoque.resources
+C:\Users\Nunes\Desktop\AcademiaVerdade\WinFormPresetaionLayer\obj\Debug\WinFormPresetaionLayer.Pesquisar.FormPesquisarFormaPagamento.resources
+C:\Users\Nunes\Desktop\AcademiaVerdade\WinFormPresetaionLayer\obj\Debug\WinFormPresetaionLayer.Pesquisar.FormPesquisarFuncionario.resources
+C:\Users\Nunes\Desktop\AcademiaVerdade\WinFormPresetaionLayer\obj\Debug\WinFormPresetaionLayer.Pesquisar.FormPesquisarModalidade.resources
+C:\Users\Nunes\Desktop\AcademiaVerdade\WinFormPresetaionLayer\obj\Debug\WinFormPresetaionLayer.Pesquisar.FormPesquisarProduto.resources
+C:\Users\Nunes\Desktop\AcademiaVerdade\WinFormPresetaionLayer\obj\Debug\WinFormPresetaionLayer.Properties.Resources.resources
+C:\Users\Nunes\Desktop\AcademiaVerdade\WinFormPresetaionLayer\obj\Debug\WinFormPresentationLayer.csproj.GenerateResource.cache
+C:\Users\Nunes\Desktop\AcademiaVerdade\WinFormPresetaionLayer\obj\Debug\WinFormPresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\Nunes\Desktop\AcademiaVerdade\WinFormPresetaionLayer\obj\Debug\WinFormPresetaionLayer.exe
+C:\Users\Nunes\Desktop\AcademiaVerdade\WinFormPresetaionLayer\obj\Debug\WinFormPresetaionLayer.pdb
+C:\Users\Nunes\Desktop\AcademiaVerdade\WinFormPresetaionLayer\bin\Debug\WinFormPresetaionLayer.exe
+C:\Users\Nunes\Desktop\AcademiaVerdade\WinFormPresetaionLayer\bin\Debug\WinFormPresetaionLayer.pdb
+C:\Users\Nunes\Desktop\AcademiaVerdade\WinFormPresetaionLayer\bin\Debug\BussinesLogicalLayer.dll
+C:\Users\Nunes\Desktop\AcademiaVerdade\WinFormPresetaionLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Nunes\Desktop\AcademiaVerdade\WinFormPresetaionLayer\bin\Debug\Entities.dll
+C:\Users\Nunes\Desktop\AcademiaVerdade\WinFormPresetaionLayer\bin\Debug\Shared.dll
+C:\Users\Nunes\Desktop\AcademiaVerdade\WinFormPresetaionLayer\bin\Debug\BussinesLogicalLayer.pdb
+C:\Users\Nunes\Desktop\AcademiaVerdade\WinFormPresetaionLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Nunes\Desktop\AcademiaVerdade\WinFormPresetaionLayer\bin\Debug\Entities.pdb
+C:\Users\Nunes\Desktop\AcademiaVerdade\WinFormPresetaionLayer\bin\Debug\Shared.pdb
+C:\Users\Nunes\Desktop\AcademiaVerdade\WinFormPresetaionLayer\obj\Debug\WinFormPresentationLayer.csproj.CopyComplete
+C:\Users\rodri\OneDrive\Área de Trabalho\AcademiaFinal\WinFormPresetaionLayer\obj\Debug\WinFormPresentationLayer.csprojAssemblyReference.cache
+C:\Users\rodri\OneDrive\Área de Trabalho\AcademiaFinal\WinFormPresetaionLayer\obj\Debug\WinFormPresetaionLayer.Atualizar.FormAtualizarCategoria.resources
+C:\Users\rodri\OneDrive\Área de Trabalho\AcademiaFinal\WinFormPresetaionLayer\obj\Debug\WinFormPresetaionLayer.Atualizar.FormAtualizarCliente.resources
+C:\Users\rodri\OneDrive\Área de Trabalho\AcademiaFinal\WinFormPresetaionLayer\obj\Debug\WinFormPresetaionLayer.Atualizar.FormAtualizarEstoque.resources
+C:\Users\rodri\OneDrive\Área de Trabalho\AcademiaFinal\WinFormPresetaionLayer\obj\Debug\WinFormPresetaionLayer.Atualizar.FormAtualizarFormaPagamento.resources
+C:\Users\rodri\OneDrive\Área de Trabalho\AcademiaFinal\WinFormPresetaionLayer\obj\Debug\WinFormPresetaionLayer.Atualizar.FormAtualizarFuncionario.resources
+C:\Users\rodri\OneDrive\Área de Trabalho\AcademiaFinal\WinFormPresetaionLayer\obj\Debug\WinFormPresetaionLayer.Atualizar.FormAtualizarModalidade.resources
+C:\Users\rodri\OneDrive\Área de Trabalho\AcademiaFinal\WinFormPresetaionLayer\obj\Debug\WinFormPresetaionLayer.Atualizar.FormAtualizarProduto.resources
+C:\Users\rodri\OneDrive\Área de Trabalho\AcademiaFinal\WinFormPresetaionLayer\obj\Debug\WinFormPresetaionLayer.FormCadastroEstoque.resources
+C:\Users\rodri\OneDrive\Área de Trabalho\AcademiaFinal\WinFormPresetaionLayer\obj\Debug\WinFormPresetaionLayer.FormCadastroDeCategoria.resources
+C:\Users\rodri\OneDrive\Área de Trabalho\AcademiaFinal\WinFormPresetaionLayer\obj\Debug\WinFormsPresentationLayer.FormCadastroDeClientes.resources
+C:\Users\rodri\OneDrive\Área de Trabalho\AcademiaFinal\WinFormPresetaionLayer\obj\Debug\WinFormsPresentationLayer.FormCadastroDeProdutos.resources
+C:\Users\rodri\OneDrive\Área de Trabalho\AcademiaFinal\WinFormPresetaionLayer\obj\Debug\WinFormsPresentationLayer.FormCadastroDeFuncionario.resources
+C:\Users\rodri\OneDrive\Área de Trabalho\AcademiaFinal\WinFormPresetaionLayer\obj\Debug\WinFormPresetaionLayer.FormCadastroDeModalidade.resources
+C:\Users\rodri\OneDrive\Área de Trabalho\AcademiaFinal\WinFormPresetaionLayer\obj\Debug\WinFormPresetaionLayer.FormCadastroFormaPagamento.resources
+C:\Users\rodri\OneDrive\Área de Trabalho\AcademiaFinal\WinFormPresetaionLayer\obj\Debug\WinFormsPresentationLayer.FormLogin.resources
+C:\Users\rodri\OneDrive\Área de Trabalho\AcademiaFinal\WinFormPresetaionLayer\obj\Debug\WinFormsPresentationLayer.FormMenu.resources
+C:\Users\rodri\OneDrive\Área de Trabalho\AcademiaFinal\WinFormPresetaionLayer\obj\Debug\WinFormPresetaionLayer.Pesquisar.FormPesquisarCategoria.resources
+C:\Users\rodri\OneDrive\Área de Trabalho\AcademiaFinal\WinFormPresetaionLayer\obj\Debug\WinFormPresetaionLayer.Pesquisar.FormPesquisarCliente.resources
+C:\Users\rodri\OneDrive\Área de Trabalho\AcademiaFinal\WinFormPresetaionLayer\obj\Debug\WinFormPresetaionLayer.Pesquisar.FormPesquisarEstoque.resources
+C:\Users\rodri\OneDrive\Área de Trabalho\AcademiaFinal\WinFormPresetaionLayer\obj\Debug\WinFormPresetaionLayer.Pesquisar.FormPesquisarFormaPagamento.resources
+C:\Users\rodri\OneDrive\Área de Trabalho\AcademiaFinal\WinFormPresetaionLayer\obj\Debug\WinFormPresetaionLayer.Pesquisar.FormPesquisarFuncionario.resources
+C:\Users\rodri\OneDrive\Área de Trabalho\AcademiaFinal\WinFormPresetaionLayer\obj\Debug\WinFormPresetaionLayer.Pesquisar.FormPesquisarModalidade.resources
+C:\Users\rodri\OneDrive\Área de Trabalho\AcademiaFinal\WinFormPresetaionLayer\obj\Debug\WinFormPresetaionLayer.Pesquisar.FormPesquisarProduto.resources
+C:\Users\rodri\OneDrive\Área de Trabalho\AcademiaFinal\WinFormPresetaionLayer\obj\Debug\WinFormPresetaionLayer.Properties.Resources.resources
+C:\Users\rodri\OneDrive\Área de Trabalho\AcademiaFinal\WinFormPresetaionLayer\obj\Debug\WinFormPresentationLayer.csproj.GenerateResource.cache
+C:\Users\rodri\OneDrive\Área de Trabalho\AcademiaFinal\WinFormPresetaionLayer\obj\Debug\WinFormPresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\rodri\OneDrive\Área de Trabalho\AcademiaFinal\WinFormPresetaionLayer\obj\Debug\WinFormPresetaionLayer.exe
+C:\Users\rodri\OneDrive\Área de Trabalho\AcademiaFinal\WinFormPresetaionLayer\obj\Debug\WinFormPresetaionLayer.pdb
+C:\Users\rodri\OneDrive\Área de Trabalho\AcademiaFinal\WinFormPresetaionLayer\bin\Debug\WinFormPresetaionLayer.exe
+C:\Users\rodri\OneDrive\Área de Trabalho\AcademiaFinal\WinFormPresetaionLayer\bin\Debug\WinFormPresetaionLayer.pdb
+C:\Users\rodri\OneDrive\Área de Trabalho\AcademiaFinal\WinFormPresetaionLayer\bin\Debug\BussinesLogicalLayer.dll
+C:\Users\rodri\OneDrive\Área de Trabalho\AcademiaFinal\WinFormPresetaionLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\rodri\OneDrive\Área de Trabalho\AcademiaFinal\WinFormPresetaionLayer\bin\Debug\Entities.dll
+C:\Users\rodri\OneDrive\Área de Trabalho\AcademiaFinal\WinFormPresetaionLayer\bin\Debug\Shared.dll
+C:\Users\rodri\OneDrive\Área de Trabalho\AcademiaFinal\WinFormPresetaionLayer\bin\Debug\BussinesLogicalLayer.pdb
+C:\Users\rodri\OneDrive\Área de Trabalho\AcademiaFinal\WinFormPresetaionLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\rodri\OneDrive\Área de Trabalho\AcademiaFinal\WinFormPresetaionLayer\bin\Debug\Entities.pdb
+C:\Users\rodri\OneDrive\Área de Trabalho\AcademiaFinal\WinFormPresetaionLayer\bin\Debug\Shared.pdb
+C:\Users\rodri\OneDrive\Área de Trabalho\AcademiaFinal\WinFormPresetaionLayer\obj\Debug\WinFormPresentationLayer.csproj.CopyComplete

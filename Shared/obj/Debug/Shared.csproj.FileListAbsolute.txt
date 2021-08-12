@@ -1,0 +1,6 @@
+C:\Users\rodri\source\repos\AcademiaZyX\Shared\bin\Debug\Shared.dll
+C:\Users\rodri\source\repos\AcademiaZyX\Shared\bin\Debug\Shared.pdb
+C:\Users\rodri\source\repos\AcademiaZyX\Shared\obj\Debug\Shared.csproj.CoreCompileInputs.cache
+C:\Users\rodri\source\repos\AcademiaZyX\Shared\obj\Debug\Shared.dll
+C:\Users\rodri\source\repos\AcademiaZyX\Shared\obj\Debug\Shared.pdb
+C:\Users\rodri\source\repos\AcademiaZyX\Shared\obj\Debug\Shared.csprojAssemblyReference.cache

@@ -1,0 +1,303 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{3DCB333A-4073-4128-B05D-A8451A45A08D}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>WinFormPresetaionLayer</RootNamespace>
+    <AssemblyName>WinFormPresetaionLayer</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>WinFormPresetaionLayer.Program</StartupObject>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Atualizar\FormAtualizarCategoria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Atualizar\FormAtualizarCategoria.Designer.cs">
+      <DependentUpon>FormAtualizarCategoria.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Atualizar\FormAtualizarCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Atualizar\FormAtualizarCliente.Designer.cs">
+      <DependentUpon>FormAtualizarCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Atualizar\FormAtualizarEstoque.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Atualizar\FormAtualizarEstoque.designer.cs">
+      <DependentUpon>FormAtualizarEstoque.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Atualizar\FormAtualizarFormaPagamento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Atualizar\FormAtualizarFormaPagamento.Designer.cs">
+      <DependentUpon>FormAtualizarFormaPagamento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Atualizar\FormAtualizarFuncionario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Atualizar\FormAtualizarFuncionario.Designer.cs">
+      <DependentUpon>FormAtualizarFuncionario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Atualizar\FormAtualizarModalidade.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Atualizar\FormAtualizarModalidade.Designer.cs">
+      <DependentUpon>FormAtualizarModalidade.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Atualizar\FormAtualizarProduto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Atualizar\FormAtualizarProduto.Designer.cs">
+      <DependentUpon>FormAtualizarProduto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cadastrar\FormCadastroEstoque.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cadastrar\FormCadastroEstoque.designer.cs">
+      <DependentUpon>FormCadastroEstoque.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cadastrar\FormCadastroDeCategoria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cadastrar\FormCadastroDeCategoria.Designer.cs">
+      <DependentUpon>FormCadastroDeCategoria.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cadastrar\FormCadastroDeCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cadastrar\FormCadastroDeCliente.designer.cs">
+      <DependentUpon>FormCadastroDeCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cadastrar\FormCadastroDeProdutos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cadastrar\FormCadastroDeProdutos.designer.cs">
+      <DependentUpon>FormCadastroDeProdutos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cadastrar\FormCadastroDeFuncionario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cadastrar\FormCadastroDeFuncionario.designer.cs">
+      <DependentUpon>FormCadastroDeFuncionario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cadastrar\FormCadastroDeModalidade.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cadastrar\FormCadastroDeModalidade.Designer.cs">
+      <DependentUpon>FormCadastroDeModalidade.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cadastrar\FormCadastroFormaPagamento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cadastrar\FormCadastroFormaPagamento.Designer.cs">
+      <DependentUpon>FormCadastroFormaPagamento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormLogin.designer.cs">
+      <DependentUpon>FormLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMenu.designer.cs">
+      <DependentUpon>FormMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pesquisar\FormPesquisarCategoria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pesquisar\FormPesquisarCategoria.Designer.cs">
+      <DependentUpon>FormPesquisarCategoria.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pesquisar\FormPesquisarCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pesquisar\FormPesquisarCliente.Designer.cs">
+      <DependentUpon>FormPesquisarCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pesquisar\FormPesquisarEstoque.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pesquisar\FormPesquisarEstoque.designer.cs">
+      <DependentUpon>FormPesquisarEstoque.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pesquisar\FormPesquisarFormaPagamento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pesquisar\FormPesquisarFormaPagamento.Designer.cs">
+      <DependentUpon>FormPesquisarFormaPagamento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pesquisar\FormPesquisarFuncionario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pesquisar\FormPesquisarFuncionario.Designer.cs">
+      <DependentUpon>FormPesquisarFuncionario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pesquisar\FormPesquisarModalidade.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pesquisar\FormPesquisarModalidade.Designer.cs">
+      <DependentUpon>FormPesquisarModalidade.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pesquisar\FormPesquisarProduto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pesquisar\FormPesquisarProduto.Designer.cs">
+      <DependentUpon>FormPesquisarProduto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Atualizar\FormAtualizarCategoria.resx">
+      <DependentUpon>FormAtualizarCategoria.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Atualizar\FormAtualizarCliente.resx">
+      <DependentUpon>FormAtualizarCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Atualizar\FormAtualizarEstoque.resx">
+      <DependentUpon>FormAtualizarEstoque.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Atualizar\FormAtualizarFormaPagamento.resx">
+      <DependentUpon>FormAtualizarFormaPagamento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Atualizar\FormAtualizarFuncionario.resx">
+      <DependentUpon>FormAtualizarFuncionario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Atualizar\FormAtualizarModalidade.resx">
+      <DependentUpon>FormAtualizarModalidade.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Atualizar\FormAtualizarProduto.resx">
+      <DependentUpon>FormAtualizarProduto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cadastrar\FormCadastroEstoque.resx">
+      <DependentUpon>FormCadastroEstoque.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cadastrar\FormCadastroDeCategoria.resx">
+      <DependentUpon>FormCadastroDeCategoria.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cadastrar\FormCadastroDeCliente.resx">
+      <DependentUpon>FormCadastroDeCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cadastrar\FormCadastroDeProdutos.resx">
+      <DependentUpon>FormCadastroDeProdutos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cadastrar\FormCadastroDeFuncionario.resx">
+      <DependentUpon>FormCadastroDeFuncionario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cadastrar\FormCadastroDeModalidade.resx">
+      <DependentUpon>FormCadastroDeModalidade.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cadastrar\FormCadastroFormaPagamento.resx">
+      <DependentUpon>FormCadastroFormaPagamento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormLogin.resx">
+      <DependentUpon>FormLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMenu.resx">
+      <DependentUpon>FormMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pesquisar\FormPesquisarCategoria.resx">
+      <DependentUpon>FormPesquisarCategoria.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pesquisar\FormPesquisarCliente.resx">
+      <DependentUpon>FormPesquisarCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pesquisar\FormPesquisarEstoque.resx">
+      <DependentUpon>FormPesquisarEstoque.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pesquisar\FormPesquisarFormaPagamento.resx">
+      <DependentUpon>FormPesquisarFormaPagamento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pesquisar\FormPesquisarFuncionario.resx">
+      <DependentUpon>FormPesquisarFuncionario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pesquisar\FormPesquisarModalidade.resx">
+      <DependentUpon>FormPesquisarModalidade.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pesquisar\FormPesquisarProduto.resx">
+      <DependentUpon>FormPesquisarProduto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BussinesLogicalLayer\BussinesLogicalLayer.csproj">
+      <Project>{6E4901B7-749F-4BF9-A021-B02B2A0E0179}</Project>
+      <Name>BussinesLogicalLayer</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DataAccessLayer\DataAccessLayer.csproj">
+      <Project>{E987DF35-CF47-4359-9112-D49FACF7AD18}</Project>
+      <Name>DataAccessLayer</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Entities\Entities.csproj">
+      <Project>{98CEF364-4952-4D2D-AD30-CB922D62C564}</Project>
+      <Name>Entities</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Shared\Shared.csproj">
+      <Project>{0D57A2B0-CD6D-43EC-8CA6-93CFEBDFFA7F}</Project>
+      <Name>Shared</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo trabalho.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

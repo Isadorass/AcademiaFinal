@@ -1,0 +1,39 @@
+C:\Users\rodri\source\repos\AcademiaZyX\BussinesLogicalLayer\obj\Debug\BussinesLogicalLayer.csproj.CoreCompileInputs.cache
+C:\Users\rodri\source\repos\AcademiaZyX\BussinesLogicalLayer\bin\Debug\BussinesLogicalLayer.dll
+C:\Users\rodri\source\repos\AcademiaZyX\BussinesLogicalLayer\bin\Debug\BussinesLogicalLayer.pdb
+C:\Users\rodri\source\repos\AcademiaZyX\BussinesLogicalLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\rodri\source\repos\AcademiaZyX\BussinesLogicalLayer\bin\Debug\Entities.dll
+C:\Users\rodri\source\repos\AcademiaZyX\BussinesLogicalLayer\bin\Debug\Shared.dll
+C:\Users\rodri\source\repos\AcademiaZyX\BussinesLogicalLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\rodri\source\repos\AcademiaZyX\BussinesLogicalLayer\bin\Debug\Entities.pdb
+C:\Users\rodri\source\repos\AcademiaZyX\BussinesLogicalLayer\bin\Debug\Shared.pdb
+C:\Users\rodri\source\repos\AcademiaZyX\BussinesLogicalLayer\obj\Debug\BussinesLogicalLayer.csprojAssemblyReference.cache
+C:\Users\rodri\source\repos\AcademiaZyX\BussinesLogicalLayer\obj\Debug\BussinesLogicalLayer.csproj.CopyComplete
+C:\Users\rodri\source\repos\AcademiaZyX\BussinesLogicalLayer\obj\Debug\BussinesLogicalLayer.dll
+C:\Users\rodri\source\repos\AcademiaZyX\BussinesLogicalLayer\obj\Debug\BussinesLogicalLayer.pdb
+C:\Users\Nunes\Desktop\AcademiaVerdade\BussinesLogicalLayer\obj\Debug\BussinesLogicalLayer.csproj.AssemblyReference.cache
+C:\Users\Nunes\Desktop\AcademiaVerdade\BussinesLogicalLayer\obj\Debug\BussinesLogicalLayer.csproj.CoreCompileInputs.cache
+C:\Users\Nunes\Desktop\AcademiaVerdade\BussinesLogicalLayer\obj\Debug\BussinesLogicalLayer.dll
+C:\Users\Nunes\Desktop\AcademiaVerdade\BussinesLogicalLayer\obj\Debug\BussinesLogicalLayer.pdb
+C:\Users\Nunes\Desktop\AcademiaVerdade\BussinesLogicalLayer\bin\Debug\BussinesLogicalLayer.dll
+C:\Users\Nunes\Desktop\AcademiaVerdade\BussinesLogicalLayer\bin\Debug\BussinesLogicalLayer.pdb
+C:\Users\Nunes\Desktop\AcademiaVerdade\BussinesLogicalLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Nunes\Desktop\AcademiaVerdade\BussinesLogicalLayer\bin\Debug\Entities.dll
+C:\Users\Nunes\Desktop\AcademiaVerdade\BussinesLogicalLayer\bin\Debug\Shared.dll
+C:\Users\Nunes\Desktop\AcademiaVerdade\BussinesLogicalLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Nunes\Desktop\AcademiaVerdade\BussinesLogicalLayer\bin\Debug\Entities.pdb
+C:\Users\Nunes\Desktop\AcademiaVerdade\BussinesLogicalLayer\bin\Debug\Shared.pdb
+C:\Users\Nunes\Desktop\AcademiaVerdade\BussinesLogicalLayer\obj\Debug\BussinesLogicalLayer.csproj.CopyComplete
+C:\Users\rodri\OneDrive\Área de Trabalho\AcademiaFinal\BussinesLogicalLayer\obj\Debug\BussinesLogicalLayer.csprojAssemblyReference.cache
+C:\Users\rodri\OneDrive\Área de Trabalho\AcademiaFinal\BussinesLogicalLayer\obj\Debug\BussinesLogicalLayer.csproj.CoreCompileInputs.cache
+C:\Users\rodri\OneDrive\Área de Trabalho\AcademiaFinal\BussinesLogicalLayer\obj\Debug\BussinesLogicalLayer.dll
+C:\Users\rodri\OneDrive\Área de Trabalho\AcademiaFinal\BussinesLogicalLayer\obj\Debug\BussinesLogicalLayer.pdb
+C:\Users\rodri\OneDrive\Área de Trabalho\AcademiaFinal\BussinesLogicalLayer\bin\Debug\BussinesLogicalLayer.dll
+C:\Users\rodri\OneDrive\Área de Trabalho\AcademiaFinal\BussinesLogicalLayer\bin\Debug\BussinesLogicalLayer.pdb
+C:\Users\rodri\OneDrive\Área de Trabalho\AcademiaFinal\BussinesLogicalLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\rodri\OneDrive\Área de Trabalho\AcademiaFinal\BussinesLogicalLayer\bin\Debug\Entities.dll
+C:\Users\rodri\OneDrive\Área de Trabalho\AcademiaFinal\BussinesLogicalLayer\bin\Debug\Shared.dll
+C:\Users\rodri\OneDrive\Área de Trabalho\AcademiaFinal\BussinesLogicalLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\rodri\OneDrive\Área de Trabalho\AcademiaFinal\BussinesLogicalLayer\bin\Debug\Entities.pdb
+C:\Users\rodri\OneDrive\Área de Trabalho\AcademiaFinal\BussinesLogicalLayer\bin\Debug\Shared.pdb
+C:\Users\rodri\OneDrive\Área de Trabalho\AcademiaFinal\BussinesLogicalLayer\obj\Debug\BussinesLogicalLayer.csproj.CopyComplete
